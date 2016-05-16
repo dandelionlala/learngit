@@ -1,3 +1,0 @@
-fewdfqfewfwafwf
-alert('today is a fine day')
-console.log('hello');
